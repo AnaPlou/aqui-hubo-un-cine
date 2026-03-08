@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cine Avenida",
+        "city": "Madrid",
+        "years_active": "1928–2002",
+        "current_use": "UNIQLO",
+        "category": "commercial",
+        "description": "Durante décadas, el Cine Avenida fue uno de los grandes templos del cine en la Gran Vía madrileña. Con el cambio de siglo dejó de funcionar como sala de proyección y hoy el edificio alberga una tienda de la marca UNIQLO."
+      },
+      "geometry": {
+        "coordinates": [-3.7050864488610618, 40.41996702855731],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cine Rex",
+        "city": "Barcelona",
+        "years_active": "1940–2010",
+        "current_use": "Cerrado",
+        "category": "closed",
+        "description": "El Cine Rex fue una de las salas más conocidas de la Gran Via de Barcelona durante décadas. Cerró a comienzos del siglo XXI y hoy el edificio permanece vacío y en deterioro."
+      },
+      "geometry": {
+        "coordinates": [2.154466234200926, 41.379635954153564],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cine Eliseo",
+        "city": "Zaragoza",
+        "years_active": "1944–2014",
+        "current_use": "McDonald's",
+        "category": "commercial",
+        "description": "El Cine Eliseo fue una de las salas más emblemáticas del centro de Zaragoza. Tras su cierre, el edificio fue transformado en un restaurante McDonald's conservando parte de su arquitectura original."
+      },
+      "geometry": {
+        "coordinates": [-0.8859228506792728, 41.64655063829437],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cine Metropol",
+        "city": "Valencia",
+        "years_active": "1939–1982",
+        "current_use": "Filmoteca de la Generalitat Valenciana",
+        "category": "cultural",
+        "description": "El Cine Metropol es uno de los edificios Art Déco más destacados de Valencia. Tras su cierre como cine privado fue restaurado y hoy alberga la sede de la Filmoteca valenciana."
+      },
+      "geometry": {
+        "coordinates": [-0.37627800610350637, 39.47096913419534],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Cinema",
+        "city": "Palma de Mallorca",
+        "years_active": "1912–1988",
+        "current_use": "Zara",
+        "category": "commercial",
+        "description": "El Gran Cinema fue uno de los espacios culturales más importantes de Palma durante gran parte del siglo XX. Tras su cierre el edificio fue rehabilitado para uso comercial."
+      },
+      "geometry": {
+        "coordinates": [2.6462941474327613, 39.57043112808244],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cine Rex",
+        "city": "Murcia",
+        "years_active": "1914–2019",
+        "current_use": "Cerrado",
+        "category": "closed",
+        "description": "El Cine Rex de Murcia tiene su origen en el Teatro Ortiz inaugurado en 1914. Durante décadas fue una de las principales salas del centro de la ciudad y cerró en 2019."
+      },
+      "geometry": {
+        "coordinates": [-1.1270597799869788, 37.98526130584333],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cine París",
+        "city": "A Coruña",
+        "years_active": "1908–1999",
+        "current_use": "Hostelería y ocio nocturno",
+        "category": "leisure",
+        "description": "El Cine París abrió en 1908 y fue uno de los espacios cinematográficos más antiguos de Galicia. Tras su cierre el edificio ha tenido distintos usos comerciales y hoy funciona como espacio de ocio."
+      },
+      "geometry": {
+        "coordinates": [-8.399247616513632, 43.37041106705667],
+        "type": "Point"
+      }
+    }
+  ]
+}
