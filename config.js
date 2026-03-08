@@ -37,7 +37,7 @@ var config = {
             alignment: 'right',
             title: 'Cine Avenida, Madrid',
             image: './assets/cine-avenida.png',
-            description: '<strong>Periodo de actividad:</strong> 1928–2002<br><strong>Hoy...</strong> es una tienda UNIQLO.<br><br>En plena Gran Vía madrileña, el Cine Avenida fue durante décadas uno de los grandes templos del cine en la ciudad. Sus sesiones formaban parte del ritmo cotidiano de una avenida que llegó a concentrar buena parte de la vida cinematográfica de Madrid. Con el cambio de siglo, las pantallas se apagaron y el edificio dejó de funcionar como sala de proyección. Hoy el espacio está ocupado por una tienda de la marca UNIQLO, reflejo de cómo el comercio global ha ido sustituyendo a muchos antiguos cines urbanos.',
+            description: '<strong>Periodo de actividad:</strong> 1928–2002<br><strong>Hoy...</strong> es una tienda UNIQLO.<br><br>En plena Gran Vía madrileña, el Cine Avenida fue durante décadas uno de los grandes templos del cine en la ciudad. Sus sesiones formaban parte del ritmo cotidiano de una avenida que llegó a concentrar buena parte de la vida cinematográfica de Madrid. Hoy el espacio está ocupado por una tienda de la marca UNIQLO, reflejo de cómo el comercio global ha ido sustituyendo a muchos antiguos cines urbanos. <br><br>Fuentes: “Cine Avenida, Madrid” (Wikipedia); “Todo lo que hay detrás de la nueva tienda de UNIQLO en Madrid: así era Gran Vía 37” (AD España)',
             location: {
                 center: [-3.7050864488610618, 40.41996702855731],
                 zoom: 15,
@@ -55,7 +55,7 @@ var config = {
             alignment: 'left',
             title: 'Cine Rex, Barcelona',
             image: './assets/cine-rex-barcelona.png',
-            description: '<strong>Periodo de actividad:</strong> 1940–2010<br><strong>Hoy...</strong> está cerrado y en deterioro.<br><br>Durante décadas, el Cine Rex fue una de las salas más reconocibles de la Gran Via de Barcelona. Como muchos cines urbanos del siglo XX, formaba parte del paisaje cotidiano de la ciudad y de la memoria de varias generaciones. A comienzos del siglo XXI, el avance de los multicines y los cambios en el consumo audiovisual precipitaron su cierre. Hoy el edificio permanece vacío y deteriorándose lentamente.',
+            description: '<strong>Periodo de actividad:</strong> 1940–2010<br><strong>Hoy...</strong> está cerrado y en deterioro.<br><br>Durante décadas, el Cine Rex fue una de las salas más reconocibles de la Gran Via de Barcelona. Como muchos cines urbanos del siglo XX, formaba parte del paisaje cotidiano de la ciudad y de la memoria de varias generaciones. A comienzos del siglo XXI, el avance de los multicines y los cambios en el consumo audiovisual precipitaron su cierre. Hoy el edificio permanece vacío y deteriorándose lentamente.<br><br> Fuentes: “La historia del desaparecido Cine Rex” (La Vanguardia); “Cine Rex (Gran Via Corts Catalanes 463)” (Barcelofilia); “Cine Rex Barcelona” (La Barcelona de antes).',
             location: {
                 center: [2.154466234200926, 41.379635954153564],
                 zoom: 15,
@@ -73,7 +73,7 @@ var config = {
             alignment: 'right',
             title: 'Cine Eliseo, Zaragoza',
             image: './assets/cine-eliseo.png',
-            description: '<strong>Periodo de actividad:</strong> 1944–2014<br><strong>Hoy...</strong> es un McDonald’s.<br><br>Durante años, el Cine Eliseo fue una de las salas más emblemáticas del centro de Zaragoza. Tras su cierre, el edificio permaneció abandonado hasta que fue adaptado para albergar un restaurante McDonald’s. Sin embargo, su valor patrimonial obligó a conservar gran parte de su arquitectura original. La fachada histórica y el antiguo rótulo de neón siguen presentes, mientras que el espacio donde antes estaban las butacas, coronadas por un gran adorno en el techo, es ahora la zona de mesas.',
+            description: '<strong>Periodo de actividad:</strong> 1944–2014<br><strong>Hoy...</strong> es un McDonald’s.<br><br>Durante años, el Cine Eliseo fue una de las salas más emblemáticas del centro de Zaragoza. Tras su cierre, el edificio permaneció abandonado hasta que fue adaptado para albergar un restaurante McDonald’s. Sin embargo, su valor patrimonial obligó a conservar gran parte de su arquitectura. La fachada y el antiguo rótulo de neón siguen presentes, mientras que el espacio donde antes estaban las butacas, coronadas por un gran adorno en el techo, es ahora la zona de mesas.<br><br>Fuentes: “El cine Elíseos se convertirá en un McDonald’s” (Traveler/Condé Nast); “El cine Elíseos reabrirá como restaurante McDonald’s” (Heraldo de Aragón)',
             location: {
                 center: [-0.8859228506792728, 41.64655063829437],
                 zoom: 15,
@@ -91,7 +91,7 @@ var config = {
             alignment: 'left',
             title: 'Cine Rialto, Valencia',
             image: './assets/cine-rialto.png',
-            description: '<strong>Periodo de actividad:</strong> 1939–1982<br><strong>Hoy...</strong> es la Filmoteca de la Generalitat Valenciana.<br><br>No todos los cines históricos desaparecieron para convertirse en garajes. El Rialto, una joya del Art Déco en plena Plaza del Ayuntamiento, es de los que tuvo suerte. Tras su cierre a mediados de los ochenta, la Generalitat lo rescató y lo rehabilitó por completo. Hoy no solo sigue proyectando cine gracias a la Filmoteca, sino que también funciona como teatro. Es de esos pocos lugares donde todavía puedes entrar a ver una película y sentir que el edificio respira como hace ochenta años.',
+            description: '<strong>Periodo de actividad:</strong> 1939–1982<br><strong>Hoy...</strong> es la Filmoteca de la Generalitat Valenciana.<br><br>No todos los cines históricos desaparecieron para convertirse en garajes. El Rialto, una joya del Art Déco en plena Plaza del Ayuntamiento, es de los que tuvo suerte. Tras su cierre a mediados de los ochenta, la Generalitat lo rescató y lo rehabilitó por completo. Hoy no solo sigue proyectando cine gracias a la Filmoteca, sino que también funciona como teatro. Es de esos pocos lugares donde todavía puedes entrar a ver una película y sentir que el edificio respira como hace ochenta años.<br><br> Fuentes: “Edificio Rialto” (Wikipedia); “Filmoteca Valenciana – Edificio Rialto” (Institut Valencià de Cultura)',
             location: {
                 center: [-0.37627800610350637, 39.47096913419534],
                 zoom: 15,
@@ -109,7 +109,7 @@ var config = {
             alignment: 'right',
             title: 'Gran Cinema, Palma de Mallorca',
             image: './assets/gran-cinema.png',
-            description: '<strong>Periodo de actividad:</strong> 1912–1988<br><strong>Hoy...</strong> es un Zara.<br><br>El Gran Cinema abrió sus puertas en 1912 en pleno Passeig del Born, dentro de un antiguo palacete del siglo XIX. Durante décadas fue uno de los espacios culturales más importantes de Palma, con una elegante sala donde se celebraban grandes estrenos. Tras su cierre en 1988, el edificio permaneció años sin actividad. Hoy alberga una tienda de Zara, aunque todavía conserva elementos arquitectónicos que recuerdan su pasado cinematográfico.',
+            description: '<strong>Periodo de actividad:</strong> 1912–1988<br><strong>Hoy...</strong> es un Zara.<br><br>El Gran Cinema abrió sus puertas en 1912 en pleno Passeig del Born, dentro de un antiguo palacete del siglo XIX. Durante décadas fue uno de los espacios culturales más importantes de Palma, con una elegante sala donde se celebraban grandes estrenos. Tras su cierre en 1988, el edificio permaneció años sin actividad. Hoy hay una tienda de Zara, aunque todavía conserva elementos arquitectónicos que recuerdan su pasado cinematográfico.<br><br>Fuentes: “El antiguo Gran Cinema del Born y su transformación comercial” (Diario de Mallorca); “El Gran Cinema del Born” (Memòria de Palma).',
             location: {
                 center: [2.6462941474327613, 39.57043112808244],
                 zoom: 15,
@@ -127,7 +127,7 @@ var config = {
             alignment: 'left',
             title: 'Cine Rex, Murcia',
             image: './assets/cine-rex-murcia.png',
-            description: '<strong>Periodo de actividad:</strong> 1914–2019<br><strong>Hoy...</strong> está cerrado.<br><br>El actual Cine Rex de Murcia tiene su origen en el Teatro Ortiz, inaugurado en 1914. Con el paso de los años el edificio se transformó en una gran sala de cine y adoptó su nombre definitivo en los años cuarenta. Durante décadas fue uno de los cines más importantes del centro de la ciudad y el último en resistir la competencia de los centros comerciales. Aunque cerró en 2019, su fachada y su interior siguen prácticamente intactos.',
+            description: '<strong>Periodo de actividad:</strong> 1914–2019<br><strong>Hoy...</strong> está cerrado.<br><br>El actual Cine Rex de Murcia tiene su origen en el Teatro Ortiz, inaugurado en 1914. Con el paso de los años el edificio se transformó en una gran sala de cine y adoptó su nombre definitivo en los años cuarenta. Durante décadas fue uno de los cines más importantes del centro de la ciudad y el último en resistir la competencia de los centros comerciales. Aunque cerró en 2019, su fachada y su interior siguen prácticamente intactos.<br><br>Fuentes: “El Cine Rex de Murcia entra en la Lista Roja del Patrimonio” (Cadena SER); “Ficha del Cine Rex” (Lista Roja del Patrimonio (Hispania Nostra).',
             location: {
                 center: [-1.1270597799869788, 37.98526130584333],
                 zoom: 15,
@@ -145,7 +145,7 @@ var config = {
             alignment: 'right',
             title: 'Cine París, A Coruña',
             image: './assets/cine-paris.png',
-            description: '<strong>Periodo de actividad:</strong> 1908–1999<br><strong>Hoy...</strong> es un negocio de hostelería y ocio nocturno.<br><br>El Cine París abrió en 1908 en la Calle Real de A Coruña y fue uno de los primeros espacios dedicados al cine en Galicia. Durante casi todo el siglo XX fue un punto de encuentro cultural en el centro de la ciudad. Tras el cierre de la sala en 1999, el edificio pasó por distintos usos comerciales. Hoy funciona como local de hostelería y ocio nocturno.',
+            description: '<strong>Periodo de actividad:</strong> 1908–1999<br><strong>Hoy...</strong> es un negocio de hostelería y ocio nocturno.<br><br>El Cine París abrió en 1908 en la Calle Real de A Coruña y fue uno de los primeros espacios dedicados al cine en Galicia. Durante casi todo el siglo XX fue un punto de encuentro cultural en el centro de la ciudad. Tras el cierre de la sala en 1999, el edificio pasó por distintos usos comerciales. Hoy funciona como local de hostelería y ocio nocturno.<br><br>Fuentes: “Cine París” (Galicia Máxica); “Los cines históricos de A Coruña” (La Voz de Galicia).',
             location: {
                 center: [-8.399247616513632, 43.37041106705667],
                 zoom: 15,
